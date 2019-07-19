@@ -1,0 +1,19 @@
+Para este proyecto he estructurado la página en divs.
+En primer lugar, he insertado una etiqueta <header> que es donde se situaría el logotipo de la empresa.
+Después,he creado una especie de menú (etiquetas <ul><li><a>) enlazado (<a href>) a las anclas de cada uno de los apartados (<a>).
+En el apartado "Quiénes somos" he distribuido la información en elementos de bloque <p> y de línea como los encabezamientos <h2> y <h3>,
+y aplicado atributos al texto como <strong> o <em>, para distinguirlos del resto.
+
+Para el apartado de los servicios, he organizado los mismos en una lista organizada <ol>, y para distinguir uno de otro, he aplicado
+la etiqueta <h3>.
+
+En el apartado pricing, he empleado la etiqueta <table> para distribuir la información en dos tablas, con encabezado y líneas normales en
+la primera tabla, y en la segunda, he empleado texto de encabezado solo en la primera columna.
+
+Para el apartado de contacto, he incluido los campos de texto (Nombre y apellidos), la etiqueta con el atributo radio para elegir el género.
+aplicando el atributo checked para que solo uno de los dos permanezca marcado.
+Para el resto de campos he empleado las etiquetas de formulario tel, email y textarea, y por último he incluido una etiqueta button para 
+incluir botón de envío.
+
+En la parte baja, he incluido un enlace a ancla <a href> para regresar al inicio de la página, y una sección de footer con la info del copyright.
+
